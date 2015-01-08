@@ -1,0 +1,2 @@
+# test-jni
+Testing JNI
